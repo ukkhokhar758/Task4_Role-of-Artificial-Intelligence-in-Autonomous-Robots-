@@ -1,0 +1,2 @@
+# Task4_Role-of-Artificial-Intelligence-in-Autonomous-Robots-
+Robotics has evolved significantly over the last few decades. Traditional robots were  programmed to perform repetitive tasks in structured environments. However, modern  industries require robots that can operate in dynamic and unpredictable environments.  This need has led to the integration of Artificial Intelligence (AI) into robotics.
